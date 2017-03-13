@@ -1,0 +1,13 @@
+{
+  "name": "GetJSON",
+  "description": "Get JSON from a url, for Diabolocom",
+  "main": "index.html",
+  "authors": [
+    "Luca"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "1.11.1"
+  }
+}

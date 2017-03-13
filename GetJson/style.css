@@ -1,0 +1,10 @@
+table { 
+	border-collapse: collapse; 
+}
+tr { 
+	display: block; float: left; 
+}
+td { 
+	display: block; 
+	border: 1px solid black; 
+}
